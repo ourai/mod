@@ -1,0 +1,21 @@
+{
+    "name": "modjs",
+    "main": "mod.js",
+    "homepage": "https://github.com/speedornothing/mod",
+    "authors": [
+        "fex-team"
+    ],
+    "description": "modjs",
+    "moduleType": ["globals"],
+    "keywords": [
+        "mod"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
